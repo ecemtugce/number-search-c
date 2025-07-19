@@ -21,8 +21,11 @@ The program will display the count and indices of the searched number.
 
 Example
 Enter numbers (enter 0 to finish): 5 7 5 9 0
+
 Enter the number to search: 5
+
 Number found 2 times
+
 Indices are:
 1
 3
